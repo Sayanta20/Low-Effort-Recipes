@@ -1,0 +1,23 @@
+// src/data/ingredients.js
+export const COMMON_INGREDIENTS = [
+  "chicken",
+  "beef",
+  "pork",
+  "fish",
+  "eggs",
+  "potatoes",
+  "onions",
+  "carrots",
+  "tomatoes",
+  "bell peppers",
+  "garlic",
+  "cheese",
+  "milk",
+  "butter",
+  "rice",
+  "pasta",
+  "beans",
+  "spinach",
+  "broccoli",
+  "mushrooms",
+];
